@@ -1,2 +1,2 @@
 Hello, world! 
-It is my first day trying to learn git 
+It is my first day trying to learn git! 
